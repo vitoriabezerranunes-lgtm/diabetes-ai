@@ -20,7 +20,7 @@ streamlit run app.py
 
 ## Dataset
 
-768 patient records, 8 clinical features. Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/diabetes).
+768 patient records, 8 clinical features. Source: UCI Machine Learning Repository.
 
 ## Disclaimer
 
